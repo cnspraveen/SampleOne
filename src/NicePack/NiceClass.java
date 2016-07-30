@@ -6,6 +6,7 @@ public class NiceClass {
 		// TODO Auto-generated method stub
 		System.out.println("Nice CLass.....");
 		System.out.println("Nice Class updated from Github.....");
+		System.out.println("updated from Eclipse........");
 
 	}
 
